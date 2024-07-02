@@ -1,2 +1,4 @@
 I love my country
 some people are traitors
+I'm using git now
+TO know git for a developer is very important.
